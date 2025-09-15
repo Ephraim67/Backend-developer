@@ -6,7 +6,7 @@ Core Features:
 
 - Room Mangement
  - Room types (Standard, Suite, and Delux)
- - Availability status (occupied, vacant, cleaning)
+ - Availability status (occupied, available, maintenance)
  - Pricing
 
 - Booking & Reservation
