@@ -1,0 +1,16 @@
+{
+  "name": "hotel_management_crm",
+  "version": "1.0.0",
+  "description": "Core Features:\r - Authentication & Roles\r  - Admin (Admin has full control)\r  - Staff (front-desk, housekeeping, etc..)\r  - Guest (view bookings and invoices)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
