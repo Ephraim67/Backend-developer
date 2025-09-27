@@ -48,6 +48,10 @@ Packages are like ready-made tools written by other developers.
 * **Local install** → For project-specific dependencies (like Express, Mongoose, React).
 * **Global install** → For tools you run in the terminal (like Nodemon, ESLint, TypeScript compiler).
 
+* https://docs.npmjs.com/cli/v11/commands/npm-install
+* https://docs.npmjs.com/downloading-and-installing-packages-globally
+* https://docs.npmjs.com/downloading-and-installing-packages-locally
+
 
 
 * **Local = inside the project bag.**
