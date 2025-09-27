@@ -92,3 +92,7 @@ In your **root `package.json`**, add a `workspaces` field:
 * **Without workspaces** → you manage 3–5 different projects separately.
 * **With workspaces** → you manage everything from one central place.
 
+* https://docs.npmjs.com/cli/v11/using-npm/workspaces
+* https://ruanmartinelli.com/blog/npm-7-workspaces-1/
+* https://app.daily.dev/tags/npm?ref=roadmapsh
+
