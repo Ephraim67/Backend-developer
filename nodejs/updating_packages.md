@@ -77,3 +77,6 @@ express     4.18.0   4.18.2   5.0.0
 * **npm update** → Quick, safe updates (respects version rules).
 * **npm install package@latest** → Full upgrade to the newest version.
 * **npm outdated** → Check before you update.
+* https://docs.npmjs.com/updating-packages-downloaded-from-the-registry
+* https://chrispennington.blog/blog/how-to-update-npm-packages-safely-with-npm-check-updates/
+* https://www.youtube.com/watch?v=Ghdfdq17JAY
