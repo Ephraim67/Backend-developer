@@ -5,7 +5,7 @@ We split our code into different files to maintain, organize and reuse code when
 
 # **CommonJS (CJS) vs ES Modules (ESM)**
 
-## **1. CommonJS (CJS)**
+## **1. CommonJS (CJS)** https://www.javascripttutorial.net/nodejs-tutorial/nodejs-modules/
 
 * Default in Node.js.
 * Uses `require()` to **import**.
@@ -42,7 +42,7 @@ console.log(math.subtract(10, 4)); // 6
 
 
 
-## **2. ES Modules (ESM)**
+## **2. ES Modules (ESM)** https://nodejs.org/api/esm.html#introduction
 
 * Newer standard (from JavaScript in browsers).
 * Uses `import` and `export`.
